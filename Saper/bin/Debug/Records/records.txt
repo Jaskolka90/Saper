@@ -1,0 +1,5 @@
+uuu: 0
+kkk: 0
+fsdsd: 0
+vvv: 1
+fff: 1

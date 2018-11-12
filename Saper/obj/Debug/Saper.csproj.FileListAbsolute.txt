@@ -1,0 +1,38 @@
+F:\Projekty C#\Saper\Saper\bin\Debug\Saper.exe.config
+F:\Projekty C#\Saper\Saper\bin\Debug\Saper.exe
+F:\Projekty C#\Saper\Saper\bin\Debug\Saper.pdb
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.exe
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.pdb
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.SaperView.View.resources
+C:\Users\Michał\Downloads\Saper\Saper\Saper\bin\Debug\Images\m_mina.gif
+C:\Users\Michał\Downloads\Saper\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\Michał\Downloads\Saper\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\Michał\Downloads\Saper\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\Michał\Downloads\Saper\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\Michał\Downloads\Saper\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\Michał\Downloads\Saper\Saper\Saper\obj\Debug\Saper.SaperView.View.resources
+C:\Users\Michał\Downloads\Saper\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\Michał\Downloads\Saper\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Downloads\Saper\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\Michał\Downloads\Saper\Saper\Saper\obj\Debug\Saper.pdb
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\bin\Debug\Saper.exe.config
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\obj\Debug\Saper.exe
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\obj\Debug\Saper.pdb
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\bin\Debug\Saper.exe
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\bin\Debug\Saper.pdb
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\obj\Debug\Saper.SaperView.View.resources
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\bin\Debug\Images\smiling-face.jpg
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\bin\Debug\Images\mina.jpg
+D:\Pobrane\Saper_Poprawiony OnFieldLeftClick\Saper_Poprawiony OnFieldLeftClick\Saper\Saper\obj\Debug\Saper.View.RecordInputView.resources
+F:\Projekty C#\Saper\Saper\bin\Debug\Images\mina.jpg
+F:\Projekty C#\Saper\Saper\bin\Debug\Images\smiling-face.jpg
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.View.RecordInputView.resources
+F:\Projekty C#\Saper\Saper\bin\Debug\Images\astonished-face.jpg
+F:\Projekty C#\Saper\Saper\bin\Debug\Images\smiling-face-with-sunglasses.jpg
+F:\Projekty C#\Saper\Saper\obj\Debug\Saper.View.GameRecordsView.resources
